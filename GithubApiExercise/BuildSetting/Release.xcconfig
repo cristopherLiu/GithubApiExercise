@@ -1,0 +1,11 @@
+//
+//  Release.xcconfig
+//  GithubApiExercise
+//
+//  Created by hjliu on 2020/11/13.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_Host_Url = https:/$()/api.github.com/
